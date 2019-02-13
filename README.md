@@ -24,6 +24,7 @@
 - [Front End Developmnt](#front-end-development)
 - [Music](#music)
 - [Machine Learning](#machine-learning)
+- [Math](#math)
 - [Programming](#programming)
 - [Programming Toolkits](#programming-toolkits)
 - [Programming Languages](#programming-languages)
@@ -228,6 +229,15 @@
 * [machinelearning](https://www.reddit.com/r/machinelearning) - News, Research Papers, Videos, Lectures, Softwares and Discussions on Machine Learning.
 * [MLQuestions](https://www.reddit.com/r/MLQuestions/) - For all your Machine Learning questions.
 * [dataisbeautiful](https://www.reddit.com/r/dataisbeautiful) - A place for visual representations of data: Graphs, charts, maps, etc.
+
+## Math
+
+- [Fived](https://www.reddit.com/r/fived/)
+- [Fractals](https://www.reddit.com/r/fractals/)
+- [Gonwild](https://www.reddit.com/r/gonwild/)
+- [Holofractal](https://www.reddit.com/r/holofractal/)
+- [Hypershape](https://www.reddit.com/r/hypershape/)
+- [Math](https://www.reddit.com/r/math/)
 
 ## Programming
 
