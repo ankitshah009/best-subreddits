@@ -504,13 +504,23 @@
 Articles on natural language processing.
 * [networking](https://www.reddit.com/r/networking)
 * [opensource](https://www.reddit.com/r/opensource) - A subreddit for everything open source related.
-* [ProgrammingLanguages](https://www.reddit.com/r/ProgrammingLanguages/) - Discussions of programming language creation and design.
+i
 * [raspberry_pi](https://www.reddit.com/r/raspberry_pi) - For discussing the raspberry pi credit card sized, ARM powered computer etc.
 * [Regex](https://www.reddit.com/r/regex/) - Questions and help on all topics concerning regular expressions.
 * [softwaredevelopment](https://www.reddit.com/r/softwaredevelopment) - Software development methodologies, techniques, and tools.
 * [tinycode](https://www.reddit.com/r/tinycode) - A subreddit for minimalistic, often but not always simple implementations of just about everything.
 * [unixporn](https://www.reddit.com/r/unixporn) - A collection of screenshots and links for aesthetics-oriented Unix tooling.
 * [WatchPeopleCode](https://www.reddit.com/r/WatchPeopleCode) - Live streams of various individual coding sessions.
+* [TrueReddit](http://www.reddit.com/r/TrueReddit/) - Reddit as it is meant to be... insightful articles, reading before voting...
+* [Today I Learned (TIL)](http://www.reddit.com/r/todayilearned) - Learn something new everyday. Always interesting.
+* [Blowit](http://www.reddit.com/r/Blowit) - One sentence to blow your mind (must provide credibility).
+* [DepthHub](http://www.reddit.com/r/DepthHub/) - The best in-depth submissions and discussion on Reddit.
+* [Fascinating](http://www.reddit.com/r/fascinating) - Fascinating stuff from science to culture, from tech to history.
+* [Nostalgia](http://www.reddit.com/r/nostalgia) - I think the title says it all... need I say more?
+* [Startups](http://www.reddit.com/r/Startups) - Stuff for entrepreneurs.
+* [LearnUselessTalents](http://www.reddit.com/r/LearnUselessTalents/) - Stuff that's cool but you'd have no reason to have learned.
+* [One Job!](http://www.reddit.com/r/onejob) - Photos of stuff people have messed up... "You had one job!"
+* [Photoessay](http://www.reddit.com/r/Photoessay/) - Photographic essays and slideshows
 
 
 
