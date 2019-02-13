@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+- [Art](#art)
 - [Back End Developmnt](#back-end-development)
     - [CakePHP](#cakephp)
     - [Django](#django)
@@ -21,6 +22,7 @@
 - [Editors](#editors)
 - [Entertainment](#entertainment)
 - [Front End Developmnt](#front-end-development)
+- [Music](#music)
 - [Programming](#programming)
 - [Programming Toolkits](#programming-toolkits)
 - [Programming Languages](#programming-languages)
@@ -64,7 +66,11 @@
 - [Contribute](#contribute)
 
 
+## Art
 
+- [Art](https://www.reddit.com/r/Art/)
+- [Imaginary cityscapes](https://www.reddit.com/r/ImaginaryCityscapes/)
+- [Pour Painting](https://www.reddit.com/r/PourPainting/)
 
 ## Back End Development
 
@@ -198,7 +204,18 @@
 * [Web_Development](https://www.reddit.com/r/Web_Development/) - Web Development news, articles, and tools.
 * [webdev](https://www.reddit.com/r/webdev)
 
+## Music
 
+- [80s electro](https://www.reddit.com/r/80sElectro/)
+- [Cyber punk music](https://www.reddit.com/r/Cyberpunk_Music/)
+- [Experimental music](https://www.reddit.com/r/experimentalmusic/)
+- [Future beats](https://www.reddit.com/r/futurebeats/)
+- [Future pop music](https://www.reddit.com/r/futurepopmusic/)
+- [Future synth](https://www.reddit.com/r/futuresynth/)
+- [Listen to this](https://www.reddit.com/r/listentothis/)
+- [Listen to us](https://www.reddit.com/r/listentous/)
+- [Music for concentration](https://www.reddit.com/r/MusicForConcentration/)
+- [New retro wave](https://www.reddit.com/r/newretrowave/)
 
 ## Programming
 
@@ -413,6 +430,11 @@
 * [osx](https://www.reddit.com/r/osx/) - Reddit's community for users, developers, and hackers of OS X.
 * [osxterminal](https://www.reddit.com/r/osxterminal/)
 * [OSXTweaks](https://www.reddit.com/r/OSXTweaks/)
+- [Apple](https://www.reddit.com/r/apple/)
+- [iOS programming](https://www.reddit.com/r/iOSProgramming/)
+- [Iosdev](https://www.reddit.com/r/iosdev/)
+- [Mac apps](https://www.reddit.com/r/macapps/)
+- [MacOS](https://www.reddit.com/r/MacOS/)
 
 
 ### watchOS
@@ -469,7 +491,9 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 
 **[Back to top](#table-of-contents)**
 
+## Related
 
+- [Awesome subreddits](https://github.com/iCHAIT/awesome-subreddits#readme)
 
 ## License
 
