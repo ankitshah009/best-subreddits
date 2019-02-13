@@ -22,6 +22,7 @@
 - [Entertainment](#entertainment)
 - [Front End Developmnt](#front-end-development)
 - [Programming](#programming)
+- [Programming Toolkits](#programming-toolkits)
 - [Programming Languages](#programming-languages)
     - [.NET](#net)
     - [AutoHotkey](#autohotkey)
@@ -207,7 +208,12 @@
 * [coding](https://www.reddit.com/r/coding) -  A pure discussion of programming.
 * [programming](https://www.reddit.com/r/programming) - For discussion and news on programming.
 
+## Programming Toolkits
 
+* [KerasML](https://www.reddit.com/r/KerasML/) - Keras is an open source neural network library written in Python. It can run on Tensorflow or Theano.
+* [Keras](https://www.reddit.com/r/keras/) - Keras is an open source neural network library written in Python. It can run on Tensorflow or Theano.
+* [Pytorch](https://www.reddit.com/r/pytorch/) - Subreddit for pytorch
+* [TensorFlow](http://tensorflow.org/) is an open source Machine Intelligence library for numerical computation using Neural Networks. Check us out at [Tensorflow](http://tensorflow.org/)
 
 ## Programming Languages
 
@@ -445,8 +451,6 @@ A place for visual representations of data: Graphs, charts, maps, etc.
 Articles on natural language processing.
 * [machinelearning](https://www.reddit.com/r/machinelearning) - News, Research Papers, Videos, Lectures, Softwares and Discussions on Machine Learning.
 * [MLQuestions](https://www.reddit.com/r/MLQuestions/) - For all your Machine Learning questions.
-* [KerasML](https://www.reddit.com/r/KerasML/) - Keras is an open source neural network library written in Python. It can run on Tensorflow or Theano.
-* [Keras](https://www.reddit.com/r/keras/) - Keras is an open source neural network library written in Python. It can run on Tensorflow or Theano.
 * [networking](https://www.reddit.com/r/networking)
 * [opensource](https://www.reddit.com/r/opensource) - A subreddit for everything open source related.
 * [ProgrammingLanguages](https://www.reddit.com/r/ProgrammingLanguages/) - Discussions of programming language creation and design.
