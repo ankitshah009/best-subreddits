@@ -64,6 +64,7 @@
     - [OS X](#os-x)
     - [watchOS](#watchos)
     - [Windows](#windows)
+- [Science](#science)
 - [Miscellaneous](#miscellaneous)
 - [Contribute](#contribute)
 
@@ -471,6 +472,17 @@
 * [windows8](https://www.reddit.com/r/windows8/) - A place for anything relevant to Microsoft's latest desktop/tablet OS, Windows 8.
 * [Windows10](https://www.reddit.com/r/Windows10/)
 * [windowsinsiders](https://www.reddit.com/r/windowsinsiders) - A subreddit for specific discussion of Windows Insider Preview builds.
+
+## Science
+
+- [Askscience](https://www.reddit.com/r/askscience/)
+- [Astronomy](https://www.reddit.com/r/Astronomy/)
+- [Chemistry](https://www.reddit.com/r/chemistry/)
+- [Computational chemistry](https://www.reddit.com/r/comp_chem/)
+- [explorables](https://www.reddit.com/r/explorables/) - Interactive explanations, thinking tools, concept visualizations, and other media for communicating and generating ideas.
+- [Physics](https://www.reddit.com/r/Physics/)
+- [Quantum computing](https://www.reddit.com/r/QuantumComputing/)
+- [Science](https://www.reddit.com/r/science/)
 
 
 ## Miscellaneous
