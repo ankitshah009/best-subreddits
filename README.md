@@ -23,6 +23,7 @@
 - [Entertainment](#entertainment)
 - [Front End Developmnt](#front-end-development)
 - [Music](#music)
+- [Machine Learning](#machine-learning)
 - [Programming](#programming)
 - [Programming Toolkits](#programming-toolkits)
 - [Programming Languages](#programming-languages)
@@ -206,16 +207,27 @@
 
 ## Music
 
-- [80s electro](https://www.reddit.com/r/80sElectro/)
-- [Cyber punk music](https://www.reddit.com/r/Cyberpunk_Music/)
-- [Experimental music](https://www.reddit.com/r/experimentalmusic/)
-- [Future beats](https://www.reddit.com/r/futurebeats/)
-- [Future pop music](https://www.reddit.com/r/futurepopmusic/)
-- [Future synth](https://www.reddit.com/r/futuresynth/)
-- [Listen to this](https://www.reddit.com/r/listentothis/)
-- [Listen to us](https://www.reddit.com/r/listentous/)
-- [Music for concentration](https://www.reddit.com/r/MusicForConcentration/)
-- [New retro wave](https://www.reddit.com/r/newretrowave/)
+* [80s electro](https://www.reddit.com/r/80sElectro/)
+* [Cyber punk music](https://www.reddit.com/r/Cyberpunk_Music/)
+* [Experimental music](https://www.reddit.com/r/experimentalmusic/)
+* [Future beats](https://www.reddit.com/r/futurebeats/)
+* [Future pop music](https://www.reddit.com/r/futurepopmusic/)
+* [Future synth](https://www.reddit.com/r/futuresynth/)
+* [Listen to this](https://www.reddit.com/r/listentothis/)
+* [Listen to us](https://www.reddit.com/r/listentous/)
+* [Music for concentration](https://www.reddit.com/r/MusicForConcentration/)
+* [New retro wave](https://www.reddit.com/r/newretrowave/)
+
+## Machine learning
+
+* [Artificial Intelligence](https://www.reddit.com/r/artificial/)
+* [Big data](https://www.reddit.com/r/bigdata/)
+* [Data science](https://www.reddit.com/r/datascience/) - Place to discuss data, data science, becoming a data scientist, data munging, and more.
+* [Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning/)
+* [Machine learning](https://www.reddit.com/r/MachineLearning/)
+* [machinelearning](https://www.reddit.com/r/machinelearning) - News, Research Papers, Videos, Lectures, Softwares and Discussions on Machine Learning.
+* [MLQuestions](https://www.reddit.com/r/MLQuestions/) - For all your Machine Learning questions.
+* [dataisbeautiful](https://www.reddit.com/r/dataisbeautiful) - A place for visual representations of data: Graphs, charts, maps, etc.
 
 ## Programming
 
@@ -460,9 +472,6 @@
 * [computervision](https://www.reddit.com/r/computervision)
 * [coolgithubprojects](https://www.reddit.com/r/coolgithubprojects) - Sharing Github projects just got easier.
 * [crypto](https://www.reddit.com/r/crypto) - Intended for links and discussions surrounding the theory and practice cryptography.
-* [dataisbeautiful](https://www.reddit.com/r/dataisbeautiful) -
-A place for visual representations of data: Graphs, charts, maps, etc.
-* [datascience](https://www.reddit.com/r/datascience/) - Place to discuss data, data science, becoming a data scientist, data munging, and more.
 * [datasets](https://www.reddit.com/r/datasets/) - Datasets for Data Mining, Analytics and Knowledge Discovery.
 * [dotfiles](https://www.reddit.com/r/dotfiles/) - Share the configuration files of your applications.
 * [embedded](https://www.reddit.com/r/embedded)
@@ -471,8 +480,6 @@ A place for visual representations of data: Graphs, charts, maps, etc.
 * [hackernews](https://www.reddit.com/r/hackernews/) - A mirror of [Hacker News](https://news.ycombinator.com/).
 * [LanguageTechnology](https://www.reddit.com/r/LanguageTechnology) -
 Articles on natural language processing.
-* [machinelearning](https://www.reddit.com/r/machinelearning) - News, Research Papers, Videos, Lectures, Softwares and Discussions on Machine Learning.
-* [MLQuestions](https://www.reddit.com/r/MLQuestions/) - For all your Machine Learning questions.
 * [networking](https://www.reddit.com/r/networking)
 * [opensource](https://www.reddit.com/r/opensource) - A subreddit for everything open source related.
 * [ProgrammingLanguages](https://www.reddit.com/r/ProgrammingLanguages/) - Discussions of programming language creation and design.
