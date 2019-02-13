@@ -1,6 +1,6 @@
 ## Best Subreddits 
 
-> A curated list of awesome programming subreddits.
+> A curated list of best subreddits.
 
 ## Table of Contents
 
@@ -445,6 +445,8 @@ A place for visual representations of data: Graphs, charts, maps, etc.
 Articles on natural language processing.
 * [machinelearning](https://www.reddit.com/r/machinelearning) - News, Research Papers, Videos, Lectures, Softwares and Discussions on Machine Learning.
 * [MLQuestions](https://www.reddit.com/r/MLQuestions/) - For all your Machine Learning questions.
+* [KerasML](https://www.reddit.com/r/KerasML/) - Keras is an open source neural network library written in Python. It can run on Tensorflow or Theano.
+* [Keras](https://www.reddit.com/r/keras/) - Keras is an open source neural network library written in Python. It can run on Tensorflow or Theano.
 * [networking](https://www.reddit.com/r/networking)
 * [opensource](https://www.reddit.com/r/opensource) - A subreddit for everything open source related.
 * [ProgrammingLanguages](https://www.reddit.com/r/ProgrammingLanguages/) - Discussions of programming language creation and design.
